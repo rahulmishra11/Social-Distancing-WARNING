@@ -176,18 +176,3 @@ cap.release()
 
 # finally, close window
 cv2.destroyAllWindows()
-  
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
